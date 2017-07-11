@@ -1,0 +1,4 @@
+br\com\techis\core\configuracao\Configuracao.class
+br\com\techis\core\modelo\Veiculo.class
+br\com\techis\core\configuracao\VeiculoRepository.class
+br\com\techis\core\controlador\TesteConexaoController.class
